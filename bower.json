@@ -1,0 +1,17 @@
+{
+  "name": "react-modelstate",
+  "main": "browser.js",
+  "version": "0.0.0",
+  "authors": [
+    "@dvemac"
+  ],
+  "dependencies": {},
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
